@@ -1,0 +1,93 @@
+[
+  {
+    "id": "HERO001",
+    "name": "NightFalcon",
+    "description": "Born from the darkness, NightFalcon is a master of stealth, equipped with enhanced night vision and the ability to fly silently through the night sky.",
+    "power_level": 8,
+    "birthday": "1991-04-23"
+  },
+  {
+    "id": "HERO002",
+    "name": "Ms. Quantum",
+    "description": "Ms. Quantum has the power to manipulate atomic and subatomic particles, allowing her to phase through objects, emit energy blasts, and even teleport.",
+    "power_level": 10,
+    "birthday": "1988-10-17"
+  },
+  {
+    "id": "HERO003",
+    "name": "AquaMystic",
+    "description": "A guardian of the deep seas, AquaMystic can breathe underwater, communicate with marine life, and harness the power of the ocean to create formidable water constructs.",
+    "power_level": 9,
+    "birthday": "1995-02-28"
+  },
+  {
+    "id": "HERO004",
+    "name": "SolarVixen",
+    "description": "Drawing energy from the sun, SolarVixen can harness solar beams, heat up objects instantly, and illuminate even the darkest of places.",
+    "power_level": 9,
+    "birthday": "1993-06-12"
+  },
+  {
+    "id": "HERO005",
+    "name": "ThunderScribe",
+    "description": "Gifted with the ancient script of storms, ThunderScribe can inscribe runes that summon lightning, turbulent winds, and rain. He also has an encyclopedic knowledge of all written languages.",
+    "power_level": 8,
+    "birthday": "1990-11-05"
+  },
+  {
+    "id": "HERO006",
+    "name": "GemGuardian",
+    "description": "With a heart of crystal, GemGuardian can generate and manipulate gemstones, using them for defense, offense, and even healing.",
+    "power_level": 7,
+    "birthday": "1985-01-15"
+  },
+  {
+    "id": "HERO007",
+    "name": "MysticBlade",
+    "description": "Wielding a sword forged from the cosmic abyss, MysticBlade can slice through any material and even open portals to other dimensions.",
+    "power_level": 10,
+    "birthday": "1997-07-07"
+  },
+  {
+    "id": "HERO008",
+    "name": "WispWhirl",
+    "description": "A master of illusions, WispWhirl can become intangible, create duplicates of herself, and cast mesmerizing spells that befuddle her enemies.",
+    "power_level": 8,
+    "birthday": "1996-03-24"
+  },
+  {
+    "id": "HERO009",
+    "name": "BreezeRunner",
+    "description": "BreezeRunner has the ability to create gentle gusts of wind, helping him glide short distances and divert light projectiles.",
+    "power_level": 4,
+    "birthday": "1992-05-14"
+  },
+  {
+    "id": "HERO010",
+    "name": "GlowBug",
+    "description": "GlowBug can emit a soft luminescent glow, illuminating dark areas. She also has an innate understanding of insects and can communicate with them to gather information.",
+    "power_level": 3,
+    "birthday": "1999-12-20"
+  },
+  {
+    "id": "HERO011",
+    "name": "StoneShaper",
+    "description": "StoneShaper has the ability to mold and shape small rocks and stones with his hands, creating tools, weapons, or simple sculptures.",
+    "power_level": 5,
+    "birthday": "1986-02-11"
+  },
+  {
+    "id": "HERO012",
+    "name": "Awesome Lightning Guy",
+    "description": "The God of Awesome Lightning Conjuration and Expulsion",
+    "power_level": 2,
+    "birthday": "1992-07-22"
+  },
+  {
+    "id": "HERO013",
+    "name": "Ant-Man",
+    "description": "Can be really small or really big.",
+    "power_level": 6,
+    "birthday": "1991-04-23"
+  }
+]
